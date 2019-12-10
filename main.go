@@ -8,6 +8,4 @@ const Test string = "Test"
 
 func main() {
 	fmt.Println(Test)
-	//fmt.Println("Test")
 }
-
