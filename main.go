@@ -6,6 +6,8 @@ import (
 
 const Test string = "Test"
 
+const Test2 string = "Test2"
+
 func main() {
 	fmt.Println(Test)
 }
